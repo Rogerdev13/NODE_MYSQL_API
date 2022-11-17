@@ -1,0 +1,1 @@
+CREATE TABLE users (id INT AUTO_INCREMENT, name VARCHAR(100) not null , PRIMARY KEY (id));
